@@ -6,10 +6,9 @@ Upgrade Specification
 
                        * Intel® Core™ i5-9500TE 3,60 GHz
                          Spesifikasi lengkap : https://www.intel.co.id/content/www/id/id/products/sku/195327/intel-core-i59500te-processor-9m-cache-up-to-3-60-ghz/specifications.html
-
- 3. HDD              : HDD 1TB to SSD 512GB
+                         
+ 3. HDD              : HDD 1TB to SSD 512TB / 256TB
  4. Operating System : Windows 10 to Linux Ubuntu
-  5. VGA             : NVIDIA GeForce MX 110 to ...
+ 5. VGA              : NVIDIA GeForce MX 110 to ...
                        * NVIDIA GeForce GTX 1650
-                       * NVIDIA GeForce GTX 1660 Super / Ti
-   
+                       * NVIDIA GeForce GTX 1660

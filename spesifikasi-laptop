@@ -4,5 +4,6 @@ Spesifikasi Laptop Saya
 - HDD              : 1 TB
 - Processor        : Intel Core i3-7020 @ 2.30Ghz (4CPUs) 
 - VGA              : NVIDIA GeForce MX110
-- Speed            : 2.30Ghz
-- Jumlah CPU       : 4 CPUs
+- L1 cache         : 128 KB
+- L2 cache         : 512 KB
+- L3 cache         : 3,0 MB
